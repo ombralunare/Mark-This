@@ -1,14 +1,14 @@
 *
 {   
     font-family: comic m sans;
-    font-style: ;
+    font-style: text;
     color: white;
 }
 
 body
 {
     box-sizing: border-box;
-    background-image-url: "https://unsplash.com/photos/Z4r8t1V2xRg";
+    background-image: url("https://unsplash.com/photos/Z4r8t1V2xRg");
     background: cover;
 }
 
